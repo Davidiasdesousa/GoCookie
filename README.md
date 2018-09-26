@@ -1,1 +1,1 @@
-# GoCookie
+# GoSession
